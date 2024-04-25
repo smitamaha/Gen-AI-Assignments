@@ -1,1 +1,1 @@
-# Gen-AI-Assignments
+# Gen-AI-Assignments includes the assignments related to Gen AI.
